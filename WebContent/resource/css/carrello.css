@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+/*carrello*/
+.dynamic_content table{
+	text-align: center;
+    width: 100%;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    border-top: 1px solid #DDD;
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+}
+.dynamic_content thead td {
+    color: #4D4D4D;
+    font-weight: bold;
+    background-color: #F7F7F7;
+    border-bottom: 1px solid #DDD;
+}
+.dynamic_content thead tr {
+    color: #000000;
+    border-right: 1px solid #DDD;
+}
+/*ordini*/
+
+.heading {
+	margin-top: 10px;
+    background-color: #232B2B;
+    border: 1px solid #ED1C24;
+    color: white;
+    text-align: center;
+}
+.update_orders form {
+    text-align: center;
+    background-color: #232B2B;
+    border: 1px solid #ED1C24;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+}
